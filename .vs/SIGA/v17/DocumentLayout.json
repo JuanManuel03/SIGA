@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81568A4D-7EF5-4925-9F9D-D1B49E3A31B6}|SIGA\\SIGA.csproj|D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\siga\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81568A4D-7EF5-4925-9F9D-D1B49E3A31B6}|SIGA\\SIGA.csproj|solutionrelative:siga\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81568A4D-7EF5-4925-9F9D-D1B49E3A31B6}|SIGA\\SIGA.csproj|d:\\data disco kingston\\data disco ssd\\users\\juanj\\source\\repos\\siga\\siga\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81568A4D-7EF5-4925-9F9D-D1B49E3A31B6}|SIGA\\SIGA.csproj|solutionrelative:siga\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81568A4D-7EF5-4925-9F9D-D1B49E3A31B6}|SIGA\\SIGA.csproj|D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\siga\\gestionhorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81568A4D-7EF5-4925-9F9D-D1B49E3A31B6}|SIGA\\SIGA.csproj|solutionrelative:siga\\gestionhorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81568A4D-7EF5-4925-9F9D-D1B49E3A31B6}|SIGA\\SIGA.csproj|D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\siga\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81568A4D-7EF5-4925-9F9D-D1B49E3A31B6}|SIGA\\SIGA.csproj|solutionrelative:siga\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81568A4D-7EF5-4925-9F9D-D1B49E3A31B6}|SIGA\\SIGA.csproj|D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\siga\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81568A4D-7EF5-4925-9F9D-D1B49E3A31B6}|SIGA\\SIGA.csproj|solutionrelative:siga\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81568A4D-7EF5-4925-9F9D-D1B49E3A31B6}|SIGA\\SIGA.csproj|D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\siga\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81568A4D-7EF5-4925-9F9D-D1B49E3A31B6}|SIGA\\SIGA.csproj|solutionrelative:siga\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81568A4D-7EF5-4925-9F9D-D1B49E3A31B6}|SIGA\\SIGA.csproj|D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\siga\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81568A4D-7EF5-4925-9F9D-D1B49E3A31B6}|SIGA\\SIGA.csproj|solutionrelative:siga\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormAdmin.cs",
+              "DocumentMoniker": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\SIGA\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "SIGA\\FormAdmin.cs",
+              "ToolTip": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\SIGA\\FormAdmin.cs",
+              "RelativeToolTip": "SIGA\\FormAdmin.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAzwBQAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:39:43.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormRegistro.cs",
+              "DocumentMoniker": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\SIGA\\FormRegistro.cs",
+              "RelativeDocumentMoniker": "SIGA\\FormRegistro.cs",
+              "ToolTip": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\SIGA\\FormRegistro.cs",
+              "RelativeToolTip": "SIGA\\FormRegistro.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBoAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:29:36.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InicioSesion.cs",
+              "DocumentMoniker": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\SIGA\\InicioSesion.cs",
+              "RelativeDocumentMoniker": "SIGA\\InicioSesion.cs",
+              "ToolTip": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\SIGA\\InicioSesion.cs",
+              "RelativeToolTip": "SIGA\\InicioSesion.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAADwvyIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:53:33.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAdmin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\SIGA\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "SIGA\\FormAdmin.cs",
+              "ToolTip": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\SIGA\\FormAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SIGA\\FormAdmin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:53:25.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InicioSesion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\SIGA\\InicioSesion.cs",
+              "RelativeDocumentMoniker": "SIGA\\InicioSesion.cs",
+              "ToolTip": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\SIGA\\InicioSesion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SIGA\\InicioSesion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:53:20.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionHorario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\SIGA\\GestionHorario.cs",
+              "RelativeDocumentMoniker": "SIGA\\GestionHorario.cs",
+              "ToolTip": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\SIGA\\GestionHorario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SIGA\\GestionHorario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:53:17.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormRegistro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\SIGA\\FormRegistro.cs",
+              "RelativeDocumentMoniker": "SIGA\\FormRegistro.cs",
+              "ToolTip": "D:\\DATA DISCO KINGSTON\\DATA DISCO SSD\\Users\\juanj\\source\\repos\\SIGA\\SIGA\\FormRegistro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SIGA\\FormRegistro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:53:06.979Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

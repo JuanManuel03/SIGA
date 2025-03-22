@@ -1,0 +1,42 @@
+C:\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\SIGA.exe.config
+C:\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\SIGA.exe
+C:\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\SIGA.pdb
+C:\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.csproj.AssemblyReference.cache
+C:\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.Properties.Resources.resources
+C:\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.csproj.GenerateResource.cache
+C:\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.csproj.CoreCompileInputs.cache
+C:\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.exe
+C:\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.pdb
+C:\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.InicioSesion.resources
+C:\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.GestionHorario.resources
+C:\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.FormAdmin.resources
+C:\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.FormRegistro.resources
+C:\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\SpreadsheetLight.dll
+C:\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\System.Drawing.Common.dll
+C:\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\System.IO.Packaging.dll
+C:\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\SpreadsheetLight.xml
+C:\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\System.IO.Packaging.xml
+C:\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.csproj.CopyComplete
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\SIGA.exe.config
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\SIGA.exe
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\SIGA.pdb
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\SpreadsheetLight.dll
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\System.Drawing.Common.dll
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\System.IO.Packaging.dll
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\SpreadsheetLight.xml
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\bin\Debug\System.IO.Packaging.xml
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.csproj.AssemblyReference.cache
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.FormRegistro.resources
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.FormAdmin.resources
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.GestionHorario.resources
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.InicioSesion.resources
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.Properties.Resources.resources
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.csproj.GenerateResource.cache
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.csproj.CoreCompileInputs.cache
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.csproj.Up2Date
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.exe
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\SIGA\SIGA\obj\Debug\SIGA.pdb
